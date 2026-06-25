@@ -793,4 +793,3 @@ Utility functions
     backend's ``get_user()`` method, or if the session auth hash doesn't
     validate.
 
-
